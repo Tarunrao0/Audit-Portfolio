@@ -10,7 +10,7 @@ This is a portfolio of all my findings in contests
 
 | Date         | Contest                                   | Platform    | Findings                                             | Payout   |
 |--------------|-------------------------------------------|-------------|------------------------------------------------------|----------|
-| February 2024| [Jala Swap](https://audits.sherlock.xyz/contests/233)             | Sherlock    | [1 Medium](https://audits.sherlock.xyz/contests/233) | $363.37  |
+| February 2024| [Jala Swap](https://audits.sherlock.xyz/contests/233)             | Sherlock    | [1 Medium](https://github.com/sherlock-audit/2024-02-jala-swap-judging/issues/214#issue-2169789436) | $363.37  |
 | April 2024   | [Titles Publishing Protocol](https://audits.sherlock.xyz/contests/326) | Sherlock    | 1 High                                               |          |
 
 
